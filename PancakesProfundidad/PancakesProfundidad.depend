@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1679890580 source:d:\alexi\documents\pancakesprofundidad\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<chrono>
+
